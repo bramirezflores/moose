@@ -119,7 +119,7 @@
   [./swelling]
     type = AbaqusCreepMaterial
     block = 0
-    plugin = ../../plugins/swelling
+    plugin = ../../../plugins/swelling
     poissons_ratio = 0.3
     integration_flag = 0
     num_state_vars = 0
